@@ -13,13 +13,13 @@
             const count =[0,0,0]
             for(let i =0; i<answers.length; i++){
 
-                if(user1[i%5] === answers[i]){
+                if(user1[i%user1.length] === answers[i]){
                     count[0] ++
                 }
-                if(user2[i%8] === answers[i]){
+                if(user2[i%user2.length] === answers[i]){
                     count[1] ++
                 }
-                if(user3[i%10] === answers[i]){
+                if(user3[i%user3.length] === answers[i]){
                     count[2] ++
                 }
             }
