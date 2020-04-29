@@ -1,5 +1,7 @@
 # 완주하지 못한 선수
 
+- level 1
+
 1. Array.prototype.filter()
 - filter는 반환 값이 Array
 - 값이 없을 때 undifinded 반환
