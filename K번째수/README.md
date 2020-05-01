@@ -13,13 +13,11 @@ sliceTemp.sort(function(a, b){return a-b});
 > 다른 분께서 푸신 것을 봤다. 간단하게 map을 사용해서 return 해준다.   
 > 이게 더 좋은 방법 같다.
 <pre><code>
-
 function solution(array, commands) {
     return commands.map(v => {
         return array.slice(v[0] - 1, v[1]).sort((a, b) => a - b).slice(v[2] - 1, v[2])[0];
     });
 }
-
 </code></pre>
 
 <hr>
