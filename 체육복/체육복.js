@@ -22,7 +22,7 @@
             while(lost.length > 0){
                 const res = lost.shift();
                 const coatlost = reserve.findIndex(val => {
-                    return val-1 === res || val+1 === res ? val : null 
+                    return val-1 === res || val+1 === res;
                 })
                 if(coatlost === -1){
                     answer -= 1;
