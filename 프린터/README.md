@@ -12,9 +12,6 @@
 - 제일 안크고 location이 0일 때, push해주면 맨 뒤로 가기 때문에 location 배열 마지막으로 바꿔줌
 - location이 0이 아닐 땐, location을 빼줌 (앞으로 이동함) 
 - LIFO(후입선출)
-
-<hr>
-
 <pre><code>
 
 let tempIndex = priorities.findIndex(val => {
