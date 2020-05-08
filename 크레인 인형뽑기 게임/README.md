@@ -33,3 +33,6 @@ const transpose = matrix =>
 </code></pre>
 - 그 후, stack top이 현재 들어오는 값과 같으면 pop 해주고 answer+=2를 해준다.
 - 그리고 찾은 인덱스 배열 위치를 0으로 바꿔준다.
+
+<hr>
+※ 문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/64061
