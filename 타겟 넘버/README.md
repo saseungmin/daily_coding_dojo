@@ -81,3 +81,6 @@ function solution(numbers, target) {
     return answer;
 }
 </code></pre>
+
+<hr>
+※ 문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/43165?language=javascript
