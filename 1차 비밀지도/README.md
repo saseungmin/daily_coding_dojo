@@ -29,3 +29,6 @@ var combine_arr = arr1.map((val,index) => {  // or 연산
       return str;
   })
 </code></pre>
+
+<hr>
+※ 문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/17681
