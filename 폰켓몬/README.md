@@ -9,5 +9,6 @@
 return uniqueArr.length > length ? uniqueArr.length-(uniqueArr.length-length): uniqueArr.length;
 </code></pre>
 
+
 <hr>
 ※ 문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/1845
