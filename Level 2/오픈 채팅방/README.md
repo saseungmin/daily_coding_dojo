@@ -22,6 +22,28 @@ const recordArr = record.map(val => val.split(" "));
     // {uid1234: "Prodo", uid4567: "Ryan"}
 </pre>
 
+### 🔸 다른 사람 풀이
+- 비슷하지만 map을 사용해서 `set(uid, nick)`으로 map을 생성하였다.
+<pre>
+function solution(record) {
+    let ret = []
+    const uids = new Map()
+
+    record.forEach(entry => {
+        let [command, uid, nick] = entry.split(' ')
+        if (command === 'Enter' || command === 'Change') uids.set(uid, nick)
+    })
+
+    record.forEach(entry => {
+        let [command, uid] = entry.split(' ')
+        if (command === 'Enter') ret.push(`${uids.get(uid)}님이 들어왔습니다.`)
+        if (command === 'Leave') ret.push(`${uids.get(uid)}님이 나갔습니다.`)
+    })
+
+    return ret
+}
+</pre>
+
 <hr>
 
 📌 문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript
