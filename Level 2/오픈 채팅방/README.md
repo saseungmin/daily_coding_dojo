@@ -1,5 +1,5 @@
 # ✔️ 오픈 채팅방
-## 🌈 level 1
+## 🌈 level 2
 ### 📌2019 KAKAO BLIND RECRUITMENT
 ### 🔸 풀이 방법
 - `["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"]` 주어진 record를
