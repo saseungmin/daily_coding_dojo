@@ -1,5 +1,5 @@
-# ※ 큰 수 만들기
-## level 2(greedy)
+# ✔ 큰 수 만들기
+## 🌈 level 2(greedy)
 ```javascript
 // k가 0보다 크고 현재 num 값이 strStack의 top보다 크면 top을 pop해준다 (while문 반복)
 let num = number[i];

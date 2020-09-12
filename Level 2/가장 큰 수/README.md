@@ -4,7 +4,7 @@
 ## 풀이 방법
 - 숫자로 받은 배열을 문자로 변경.
 - `sort`를 문자열로 붙여서 비교
-- 
+
 ```javascript
   let num = str.sort((a,b) => {
       console.log(b+a,a+b);
