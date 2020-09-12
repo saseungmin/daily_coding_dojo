@@ -1,19 +1,19 @@
 # ✔ 기능 개발
-## 🔶 Level 2
-> queue를 사용해서 풀었다.   
-> javascript에 shift 함수를 사용해서 배열에서 하나씩 빼내가면서 사용.   
-> 100이 되면 <b>shift함수</b>는 queue이기 때문에 FIFO로 처음 들어온 애가 가장 먼저 빠져나가야지만 다음 애들도 빠져나갈 수 있다.   
-> 그 원리를 활용해 2번째가 먼저 100이 되어도 첫번째가 100이 안되었기 때문에 첫번째 녀석이 100이 되었을 때 2번째 녀석도 같이 빠져나가게 된다.   
-<pre>
+## 🌈 Level 2
+- `queue`를 사용해서 풀었다.   
+- javascript에 `shift` 함수를 사용해서 배열에서 하나씩 빼내가면서 사용.   
+- 100이 되면 <b>`shift`함수</b>는 `queue`이기 때문에 `FIFO`로 처음 들어온 애가 가장 먼저 빠져나가야지만 다음 애들도 빠져나갈 수 있다.   
+- 그 원리를 활용해 2번째가 먼저 100이 되어도 첫번째가 100이 안되었기 때문에 첫번째 녀석이 100이 되었을 때 2번째 녀석도 같이 빠져나가게 된다.   
+```javascript
 while(progresses[0] >= max){
     progresses.shift();
     speeds.shift();
     count++;
 }
-</pre>
+```
 
-### 🔶 다른 풀이
-<pre>
+### 🎈 다른 풀이
+```javascript
 function solution(progresses, speeds) {
     let answer = [0];
     let days = progresses.map((progress, index) => {
@@ -35,7 +35,7 @@ function solution(progresses, speeds) {
 
     return answer;
 }
-</pre>
+```
 
 <hr>
 

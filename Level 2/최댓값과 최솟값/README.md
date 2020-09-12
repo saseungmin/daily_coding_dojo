@@ -7,13 +7,13 @@
 
 ### 🌈 다른 풀이
 - 문자열을 굳이 숫자로 변환을 안시켜도 최댓값 최솟값을 구할 수 있다..
-<pre>
+```javascript
 function solution(s) {
     const arr = s.split(' ');
 
     return Math.min(...arr)+' '+Math.max(...arr);
 }
-</pre>
+```
 
 <hr>
 
