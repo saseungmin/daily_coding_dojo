@@ -2,11 +2,11 @@
 ## 🌈 LEVEL 1
 ### ✌ 문제 풀이
 - `sort()`후 `reverse()`를 하면 역순으로 정렬된다.
-<pre>
+```javascript
 function solution(s) {
     return s.split('').sort().reverse().join('');
 }
-</pre>
+```
 
 <hr>
 

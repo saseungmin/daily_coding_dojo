@@ -6,12 +6,11 @@
 - 나머지인 경우 `false`를 반환한다.
 ### 다른 풀이 방법
 - 결국 둘다 0개인 경우도 개수가 같으므로 `true`이기 때문에 아래 방법이 훨씬 깔끔한 거 같다.
-<pre>
+```javascript
 function numPY(s){
-  //함수를 완성하세요
     return s.toUpperCase().split("P").length === s.toUpperCase().split("Y").length;
 }
-</pre>
+```
 
 <hr>
 
