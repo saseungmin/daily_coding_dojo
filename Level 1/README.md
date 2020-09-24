@@ -49,6 +49,9 @@
 
 ### 🎈 [수박수박수박수박수박수](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
 - `repeat`
+
+### 🎈 [시저 암호](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
+- `findIndex`, `split`, `join`, `map`, `toUpperCase`, `toLowerCase`
   
 ### 🎈 [실패율](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
 - 2019 KAKAO BLIND RECRUITMENT
