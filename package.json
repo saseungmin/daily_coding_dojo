@@ -1,0 +1,22 @@
+{
+  "name": "programmers",
+  "version": "0.0.1",
+  "description": "알고리즘 공부",
+  "main": ".eslintrc.js",
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saseungmin/programmers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saseungmin/programmers/issues"
+  },
+  "homepage": "https://github.com/saseungmin/programmers#readme"
+}
