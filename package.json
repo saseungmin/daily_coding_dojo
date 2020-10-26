@@ -4,7 +4,9 @@
   "description": "알고리즘 공부",
   "main": ".eslintrc.js",
   "devDependencies": {
-    "eslint": "^7.9.0"
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
