@@ -82,3 +82,6 @@
 ### 🎈 [키패드 누르기](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)
 - 2020 카카오 인턴십 코딩테스트
 - `shift`, `findIndex`, `Math.abs`
+
+### 🎈 [이상한 문자 만들기](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- `split`, `map`, `toUpperCase`, `toLowerCase`, `join`
