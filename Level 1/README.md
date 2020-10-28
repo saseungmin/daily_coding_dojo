@@ -68,6 +68,9 @@
 ### 🎈 [완주하지 못한 선수](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
 - `reduce`, `find`
 
+### 🎈 [이상한 문자 만들기](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- `split`, `map`, `toUpperCase`, `toLowerCase`, `join`
+
 ### 🎈 [정수 내림차순으로 배치하기](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
 - `split`, `sort`, `join`
 
@@ -82,6 +85,3 @@
 ### 🎈 [키패드 누르기](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0)
 - 2020 카카오 인턴십 코딩테스트
 - `shift`, `findIndex`, `Math.abs`
-
-### 🎈 [이상한 문자 만들기](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
-- `split`, `map`, `toUpperCase`, `toLowerCase`, `join`

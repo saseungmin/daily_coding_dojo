@@ -50,6 +50,11 @@
 - `Math.min`, `Math.max`, `parseInt`
 ### 🎈 [문자열 압축](https://github.com/saseungmin/algorithm_study/tree/master/Level%202/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)
 - `reduce`, `substring`, `push`
+
+### 🎈 [소수 만들기](https://github.com/saseungmin/algorithm_study/tree/master/Level%202/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- 완전탐색
+- Summer/Winter Coding(~2018)
+
 ### 🎈 [수식 최대화](https://github.com/saseungmin/algorithm_study/tree/master/Level%202/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94)
 - 2020 카카오 인턴쉽
 - 정규 표현식, `match`, `findIndex`, `eval`, `splice`, `reduce`, `Math.abs`
