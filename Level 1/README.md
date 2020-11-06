@@ -23,6 +23,10 @@
 ### 🎈 [나누어 떨어지는 숫자 배열](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%B0%B0%EC%97%B4)
 - `filter`, `sort`
 
+### 🎈 [내적](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EB%82%B4%EC%A0%81)
+- 월간 코드 챌린지 시즌 1
+- `reduce`, `while`
+
 ### 🎈 [두 개 뽑아서 더하기](https://github.com/saseungmin/algorithm_study/tree/master/Level%201/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0)
 - 월간 코드 챌린지 시즌 1
 - `findIndex`, `sort`, `push`
