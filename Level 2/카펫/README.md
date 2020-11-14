@@ -19,3 +19,7 @@ if ((width - 2) * (height - 2) === yellow) {
   return [width, height];
 }
 ```
+
+---
+
+📌 문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/42842?language=javascript

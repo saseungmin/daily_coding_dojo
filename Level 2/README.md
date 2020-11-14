@@ -100,6 +100,10 @@
 ### 🎈 [최솟값 만들기](https://github.com/saseungmin/algorithm_study/tree/master/Level%202/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - `sort`, `forEach`, `reduce`
 
+### 🎈 [카펫](https://github.com/saseungmin/algorithm_study/tree/master/Level%202/%EC%B9%B4%ED%8E%AB)
+- `for`
+- 완전 탐색
+
 ### 🎈 [큰 수 만들기](https://github.com/saseungmin/algorithm_study/tree/master/Level%202/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - greedy 알고리즘
 - pop, push, join
@@ -110,6 +114,7 @@
 ### 🎈 [탑](https://github.com/saseungmin/algorithm_study/tree/master/Level%202/%ED%83%91)
 - stack
 - `pop`, `unshift`
+
 ### 🎈 [튜플](https://github.com/saseungmin/algorithm_study/tree/master/Level%202/%ED%8A%9C%ED%94%8C)
 - 2019 카카오 개발자 겨울 인턴십
 - `slice`, `split`, `sort`, `findIndex`, `parseInt`

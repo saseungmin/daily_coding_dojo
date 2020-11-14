@@ -2,8 +2,6 @@
 
 - javaScript 알고리즘 연습 🎯
 - 알고리즘은 꾸준히가 중요하다! 그러니 제발 꾸준히 풀어보자..🚀
-- 연습을 실전처럼
-
 
 ## 🌈 [level 1](https://github.com/saseungmin/programmers/tree/master/Level%201)
 - 보통 `substr`, `subString`, `split`같은 문자열 관련된 문제들이 많았다.
@@ -26,5 +24,3 @@
 - 어렵지만 어렵다고 기죽지말자.. ㅎㅎ
 - 기본적인 동작 원리를 이해를 하자.
 - 꾸준히 풀어보자 📖
-  
-
