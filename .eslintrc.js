@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-undef
 module.exports = {
   env: {
     browser: true,
@@ -34,6 +33,7 @@ module.exports = {
     'no-shadow': 'off',
     'import/no-absolute-path': 'error', // import 절대경로 error
     'consistent-return': 'off', // return 항상 값을 지정하거나 지정하지 않는 require 문 off
-    'no-plusplus': 'off',
+    'no-plusplus': 'off', // ++ 사용금지 off
+    'no-continue': 'off', // continue 사용금지 off
   },
 };
