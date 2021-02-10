@@ -1,7 +1,7 @@
 {
   "name": "programmers",
   "version": "0.0.1",
-  "description": "알고리즘 공부",
+  "description": "programmers algorism",
   "main": ".eslintrc.js",
   "devDependencies": {
     "eslint": "^7.9.0",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saseungmin/programmers.git"
+    "url": "git+https://github.com/saseungmin/daily_coding_dojo"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saseungmin/programmers/issues"
+    "url": "https://github.com/saseungmin/daily_coding_dojo/issues"
   },
-  "homepage": "https://github.com/saseungmin/programmers#readme"
+  "homepage": "https://github.com/saseungmin/daily_coding_dojo#readme"
 }
