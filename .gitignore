@@ -1,4 +1,13 @@
-node_modules/
-네이버 코테/
-coupang/
-우아한테크코스 3기 코테/
+## Mac OS x
+.DS_*
+
+## VS Code
+.vscode
+
+## node_modules
+node_modules
+
+## Others
+네이버 코테
+coupang
+우아한테크코스 3기 코테
