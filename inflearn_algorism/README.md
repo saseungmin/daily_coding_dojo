@@ -8,3 +8,5 @@
 ### 🎯 목표
 - TDD 사이클에 맞춰 문제 풀기
 - 그리디, 재귀, 완전탐색, DFS, BFS, 그래프, Dynamic Programming에 대한 알고리즘 감잡기.
+
+#### [🎈 Section 1](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section1)

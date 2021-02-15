@@ -13,8 +13,52 @@
 
 ### 📚 JavaScript 폴더 별 설정 with Jest
 
+#### 📌 npm install
+
 ```shell
 > npm init -y
-> npm i jest @types/jest eslint
+> npm i jest @types/jest eslint jest-plugin-context
 > npx eslint --init
+```
+
+#### 📌 .eslintrc.js with airbnb
+
+```js
+module.exports = {
+  env: {
+    browser: true,
+    es2021: true,
+    jest: true,
+  },
+  extends: [
+    'airbnb-base',
+  ],
+  globals: {
+    context: 'readonly',
+  },
+  parserOptions: {
+    ecmaVersion: 12,
+    sourceType: 'module',
+  },
+  rules: {
+  },
+};
+```
+
+#### 📌 jest.config.js
+
+```js
+module.exports = {
+  setupFilesAfterEnv: [
+    'jest-plugin-context/setup',
+  ],
+  coverageThreshold: {
+    global: {
+      branches: 100,
+      functions: 100,
+      lines: 100,
+      statements: 100,
+    },
+  },
+};
 ```

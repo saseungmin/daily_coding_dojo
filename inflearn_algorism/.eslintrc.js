@@ -7,6 +7,9 @@ module.exports = {
   extends: [
     'airbnb-base',
   ],
+  globals: {
+    context: 'readonly',
+  },
   parserOptions: {
     ecmaVersion: 12,
     sourceType: 'module',
