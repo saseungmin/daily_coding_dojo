@@ -43,4 +43,10 @@ describe('checkRSP', () => {
 
     expect(result).toBe('B');
   });
+
+  it('return D', () => {
+    const result = checkRSP(3, 3);
+
+    expect(result).toBe('D');
+  });
 });
