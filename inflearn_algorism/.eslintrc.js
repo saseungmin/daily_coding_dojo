@@ -5,6 +5,7 @@ module.exports = {
     jest: true,
   },
   extends: [
+    'eslint:recommended',
     'airbnb-base',
   ],
   globals: {
@@ -15,5 +16,6 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+    'no-plusplus': ['error', { allowForLoopAfterthoughts: true }],
   },
 };
