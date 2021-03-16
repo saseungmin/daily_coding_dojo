@@ -9,6 +9,7 @@
 #### [🤔 연속 부분수열 2](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section5/solution4)
 #### [🤔 최대 매출](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section5/solution5)
 #### [🤔 학급 회장(해쉬)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section5/solution6)
+#### [🤔 아나그램(해쉬)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section5/solution7)
 
 ----
 
