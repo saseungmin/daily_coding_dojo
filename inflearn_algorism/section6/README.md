@@ -4,6 +4,7 @@
 - TDD 사이클을 기반으로 문제를 푼다.
 
 #### [🤔 올바른 괄호](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution1)
+#### [🤔 괄호문자제거](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution2)
 
 ----
 
