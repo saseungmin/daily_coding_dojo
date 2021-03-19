@@ -4,7 +4,7 @@
   "description": "인프런 자바스크립트 문제풀이 강의",
   "main": "index.js",
   "scripts": {
-    "test": "jest ./section5",
+    "test": "jest ./section6",
     "test:watch": "npm run test -- --watch-all",
     "coverage": "npm run test -- --coverage"
   },
