@@ -5,6 +5,7 @@
 
 #### [🤔 올바른 괄호](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution1)
 #### [🤔 괄호문자제거](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution2)
+#### [🤔 크레인 인형뽑기](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution3)
 
 ----
 
