@@ -6,6 +6,10 @@
 #### [🤔 올바른 괄호](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution1)
 #### [🤔 괄호문자제거](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution2)
 #### [🤔 크레인 인형뽑기](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution3)
+#### [🤔 후위식 연산(postfix)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution4)
+#### [🤔 쇠막대기](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution5)
+#### [🤔 공주 구하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution6)
+#### [🤔 교육과정 설계](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6/solution7)
 
 ----
 
