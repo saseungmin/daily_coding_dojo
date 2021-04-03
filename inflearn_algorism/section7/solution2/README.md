@@ -11,6 +11,6 @@
   - 교환 횟수
     - 입력 자료가 역순으로 정렬되어 있는 최악의 경우, 한 번 교환하기 위하여 3번의 이동이 필요하므로 3n(n - 1)/2
     - 입력 자료가 이미 정렬되어 있는 최상의 경우, 자료 이동이 발생하지 않는다.
-  - T(n) = O(n^2^)
+  - T(n) = O(n<sup>2</sup>)
 
 ![sort-time-complexity](../../images/sort-time-complexity.png)
