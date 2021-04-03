@@ -9,4 +9,6 @@
 
 #### [🤔 Special Sort(구글 인터뷰)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution3)
 
+#### [🤔 삽입 정렬](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution4)
+
 ![sort-time-complexity](../images/sort-time-complexity.png)
