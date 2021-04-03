@@ -5,3 +5,6 @@
 
 #### [🤔 선택 정렬](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution1)
 
+#### [🤔 버블 정렬](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution2)
+
+![sort-time-complexity](../images/sort-time-complexity.png)
