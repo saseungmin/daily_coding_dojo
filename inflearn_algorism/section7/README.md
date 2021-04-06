@@ -17,6 +17,8 @@
 
 #### [🤔 좌표 정렬](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution7)
 
+#### [🤔 회의실 배정](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution8)
+
 #### [🤔 결혼식](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution8)
 
 ![sort-time-complexity](../images/sort-time-complexity.png)
