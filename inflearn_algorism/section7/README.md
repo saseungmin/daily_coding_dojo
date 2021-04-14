@@ -25,4 +25,6 @@
 
 #### [🤔 뮤직비디오(결정 알고리즘)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution11)
 
+#### [🤔 마구간 정하기(결정 알고리즘)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7/solution12)
+
 ![sort-time-complexity](../images/sort-time-complexity.png)
