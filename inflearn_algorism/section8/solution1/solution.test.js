@@ -1,17 +1,13 @@
 function solution(N) {
-  const result = [];
-
-  function dfs(K) {
+  function dfs(K, result) {
     if (K === 0) {
-      return;
+      return result;
     }
 
-    result.unshift(K);
-    dfs(K - 1);
+    return dfs(K - 1, [K, ...result]);
   }
 
-  dfs(N);
-  return result;
+  return dfs(N, []);
 }
 
 describe('solution', () => {

@@ -1,18 +1,13 @@
 function solution(N) {
-  let base = '';
-
-  function convert(target) {
+  function convert(target, result) {
     if (target === 0) {
-      return;
+      return result;
     }
 
-    convert(parseInt(target / 2, 10));
-    base += target % 2;
+    return convert(parseInt(target / 2, 10), String((target % 2) + result));
   }
 
-  convert(N);
-
-  return base;
+  return convert(N, '');
 }
 
 describe('solution', () => {
