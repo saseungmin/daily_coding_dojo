@@ -16,3 +16,4 @@
 #### [🎈 Section 5](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section5)
 #### [🎈 Section 6](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section6)
 #### [🎈 Section 7](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7)
+#### [🎈 Section 8](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8)
