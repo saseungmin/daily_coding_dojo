@@ -15,7 +15,7 @@ function solution(N) {
 }
 
 describe('solution', () => {
-  it('재귀함수를 사용하여 반환한다.', () => {
+  it('재귀함수를 사용하여 1부터 N까지 반환한다.', () => {
     expect(solution(3)).toEqual([1, 2, 3]);
   });
 });
