@@ -4,13 +4,13 @@
   "description": "인프런 자바스크립트 문제풀이 강의",
   "main": "index.js",
   "scripts": {
-    "test": "jest ./section7",
+    "test": "jest ./section8",
     "test:watch": "npm run test -- --watch-all",
     "coverage": "npm run test -- --coverage"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/jest": "^26.0.20",
     "jest": "^26.6.3"
