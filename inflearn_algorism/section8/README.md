@@ -11,3 +11,5 @@
 #### [🤔 합이 같은 부분집합(DFS: 아마존 인터뷰)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution5)
 
 #### [🤔 바둑이 승차(DFS)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution6)
+
+#### [🤔 최대점수 구하기(DFS)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution7)
