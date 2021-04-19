@@ -15,3 +15,5 @@
 #### [🤔 최대점수 구하기(DFS)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution7)
 
 #### [🤔 중복순열 구하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution8)
+
+#### [🤔 동전교환](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution9)
