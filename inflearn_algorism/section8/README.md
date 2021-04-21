@@ -17,3 +17,5 @@
 #### [🤔 중복순열 구하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution8)
 
 #### [🤔 동전교환](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution9)
+
+#### [🤔 순열 구하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution10)
