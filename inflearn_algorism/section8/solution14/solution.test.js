@@ -35,7 +35,7 @@ describe('solution', () => {
     [2, 4],
     [3, 4],
   ];
-  it('가장 윗줄에 있는 숫자들을 반환한다.', () => {
+  it('조합의 경우의 수를 반환한다.', () => {
     expect(solution(4, 2)).toEqual(result);
   });
 });
