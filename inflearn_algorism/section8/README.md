@@ -23,3 +23,5 @@
 #### [🤔 팩토리얼](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution11)
 
 #### [🤔 조합의 경우수(메모이제이션)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution12)
+
+#### [🤔 수열 추측하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section8/solution13)
