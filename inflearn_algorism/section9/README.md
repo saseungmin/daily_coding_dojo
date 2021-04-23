@@ -9,3 +9,5 @@
 #### [🤔 이진트리 넓이우선탐색(BFS)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section9/solution4)
 
 #### [🤔 송아지 찾기(BFS)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section9/solution5)
+
+#### [🤔 섬나라 아일랜드(DFS 활용)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section9/solution6)
