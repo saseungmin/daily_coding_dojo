@@ -2,21 +2,28 @@
   "name": "programmers",
   "version": "0.0.1",
   "description": "programmers algorism",
-  "main": ".eslintrc.js",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3"
+  },
   "devDependencies": {
-    "eslint": "^7.9.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.22.1"
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "jest-plugin-context": "^2.9.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "test:watch": "npm run test -- --watch-all",
+    "coverage": "npm run test -- --coverage"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/saseungmin/daily_coding_dojo"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/saseungmin/daily_coding_dojo/issues"
   },
