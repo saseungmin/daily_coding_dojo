@@ -11,3 +11,5 @@
 #### [🤔 송아지 찾기(BFS)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section9/solution5)
 
 #### [🤔 섬나라 아일랜드(DFS 활용)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section9/solution6)
+
+#### [🤔 섬나라 아일랜드(BFS 활용)](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section9/solution7)
