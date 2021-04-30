@@ -11,6 +11,9 @@
 ### 🎈 [2016년](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/2016%EB%85%84)
 - `Date`
 
+### 🎈 [3진법 뒤집기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
+- 월간 코드 챌린지 시즌1
+
 ### 🎈 [K 번째 수](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/K%EB%B2%88%EC%A7%B8%EC%88%98)
 - `slice`, `push`, `sort`
 
@@ -60,7 +63,10 @@
 
 ### 🎈 [시저 암호](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
 - `findIndex`, `split`, `join`, `map`, `toUpperCase`, `toLowerCase`
-  
+
+### 🎈 [신규 아이디 추첮](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)
+- 2021 KAKAO BLIND RECRUITMENT
+
 ### 🎈 [실패율](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
 - 2019 KAKAO BLIND RECRUITMENT
 - `filter`, `push`, `JSON array`, `sort`, `map`
@@ -71,6 +77,9 @@
 
 ### 🎈 [완주하지 못한 선수](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
 - `reduce`, `find`
+
+### 🎈 [음양 더하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
+- 월간 코드 챌린지 시즌 2
 
 ### 🎈 [이상한 문자 만들기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - `split`, `map`, `toUpperCase`, `toLowerCase`, `join`

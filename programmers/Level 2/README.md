@@ -35,6 +35,10 @@
 ### 🎈 [가장 큰 수](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
 - `sort`, `join`, `map`
 
+### 🎈 [괄호 변환](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98)
+- 2020 KAKAO BLIND RECRUITMENT
+- 재귀
+
 ### 🎈 [구명보트](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)
 - greedy 알고리즘
 - `find`, `findIndex`, `sort`, `filter`, `pop`, `indexOf`, `splice`
