@@ -63,6 +63,10 @@
 - 직사각형(정사각형)의 대각선이 지나는 단위사각형의 개수, 유클리드 호제법
 - `Math.min`, `Math.max`, `parseInt`
 
+### 🎈 [메뉴 리뉴얼](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC)
+- 2021 KAKAO BLIND RECRUITMENT
+- DFS, 재귀
+
 ### 🎈 [문자열 압축](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95)
 - `reduce`, `substring`, `push`
 
