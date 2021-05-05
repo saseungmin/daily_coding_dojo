@@ -35,9 +35,18 @@
 ### 🎈 [가장 큰 수](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98)
 - `sort`, `join`, `map`
 
+### 🎈 [게임 맵 최단거리](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
+- 찾아라 프로그래밍 마에스터
+- `bfs`, `dfs`(효율성 실패)
+- 최단거리를 구하는 문제는 `bfs`로 풀자
+
 ### 🎈 [괄호 변환](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98)
 - 2020 KAKAO BLIND RECRUITMENT
 - 재귀
+
+### 🎈 [괄호 회전하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0)
+- 월간 코드 챌린지 시즌2
+- 완전 탐색
 
 ### 🎈 [구명보트](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8)
 - greedy 알고리즘
