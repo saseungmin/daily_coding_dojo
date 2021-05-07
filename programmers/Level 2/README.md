@@ -22,6 +22,11 @@
 - 캐시 교체 알고리즘 LRU(Least Recently Used) / queue
 - `includes`, `splice`, `indexOf`, `join`, `unshift`, `pop`
 
+### 🎈 [[3차] 방금그곡](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1)
+- 2018 KAKAO BLIND RECRUITMENT
+- 정규표현식(부정형 전방탐색)
+- 날짜변환, 시간비교
+
 ### 🎈 [[3차] 압축](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95)
 - 2018 KAKAO BLIND RECRUITMENT
 - LZW 압축, 재귀호출
@@ -155,3 +160,8 @@
 ### 🎈 [프린터](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%ED%94%84%EB%A6%B0%ED%84%B0)
 - 스택/큐
 - `findIndex`, `shift`, `push`
+
+### 🎈 [피보나치 수](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98)
+- 피보나치
+- 재귀와 DP를 사용했지만 효율성 실패문제
+- 단순히 O(n)번에 가능한 배열을 사용
