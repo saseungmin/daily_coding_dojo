@@ -31,4 +31,4 @@ const compareCharCode = (a, b) => upper(a).localeCompare(upper(b));
 
 ---
 
-- 📌 문제 출처: https://programmers.co.kr/learn/courses/30/lessons/12978?language=javascript
+- 📌 문제 출처: https://programmers.co.kr/learn/courses/30/lessons/17686
