@@ -1,14 +1,21 @@
+/* eslint-disable no-constant-condition */
 /* eslint-disable prefer-destructuring */
 function solution(jobs) {
   const total = jobs.length;
+  const queue = [];
+
   let answer = 0;
   let tick = 0;
-  const queue = [];
+
   while (true) {
-    // 1. (jobs가 있을 때) tick보다 같거나 작은 작업 모두 추출 후 queue에 삽입
     let index = 0;
+
+    // 1. (jobs가 있을 때) tick보다 같거나 작은 작업 모두 추출 후 queue에 삽입
     while (true) {
-      if (index >= jobs.length) break;
+      if (index >= jobs.length) {
+        break;
+      }
+
       if (jobs[index][0] <= tick) {
         // 요청이 들어온 작업
         queue.push(jobs.splice(index, 1)[0]);
@@ -22,14 +29,16 @@ function solution(jobs) {
     if (queue.length === 0) {
       if (jobs.length === 0) {
         break;
-      } else {
-        tick += 1;
       }
+
+      tick += 1;
     } else {
       // 2. (queue가 있을 때) queue에서 작업량이 가장 작은 작업 수행
       let minIndex = 0;
       for (let i = 1; i < queue.length; i++) {
-        if (queue[minIndex][1] > queue[i][1]) minIndex = i;
+        if (queue[minIndex][1] > queue[i][1]) {
+          minIndex = i;
+        }
       }
 
       // 2.1 수행한 시간 만큼 tick 증가
