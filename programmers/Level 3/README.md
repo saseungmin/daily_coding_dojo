@@ -10,8 +10,10 @@
 - 해시
 - JSONArray, push, sort, parseInt
 
+### 🎈 [이중우선순위큐](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)
+- 우선순위 큐(힙)
+
 ### 🎈 [타일 장식물](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%ED%83%80%EC%9D%BC%20%EC%9E%A5%EC%8B%9D%EB%AC%BC)
 - 동적계획법(Dynamic Programming)
 - 피보나치 수열
 - `push`
-

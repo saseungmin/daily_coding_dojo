@@ -32,6 +32,10 @@
 - LZW 압축, 재귀호출
 - `push`, `findIndex`
 
+### 🎈 [[3차] 파일명 정렬](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC)
+- 2018 KAKAO BLIND RECRUITMENT
+- 정규표현식
+
 ### 🎈 [[3차] n진수 게임](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%5B3%EC%B0%A8%5Dn%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84)
 - 2018 KAKAO BLIND RECRUITMENT
 - 진법 변환
