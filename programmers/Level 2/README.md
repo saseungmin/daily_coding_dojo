@@ -124,6 +124,10 @@
 - 해시
 - `{key:value}`, `for in`
 
+### 🎈 [이진 변환 반복하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)
+- 월간 코드 챌린지 시즌1
+- 정규표현식
+
 ### 🎈 [점프와 순간이동](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99)
 - Summer/Winter Coding(~2018)
 
@@ -141,6 +145,10 @@
 ### 🎈 [카펫](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%B9%B4%ED%8E%AB)
 - `for`
 - 완전 탐색
+
+### 🎈[쿼드압축 후 개수 세기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0)
+- 월간 코드 챌린지 시즌1
+- 완전 탐색, 재귀
 
 ### 🎈 [큰 수 만들기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - greedy 알고리즘
