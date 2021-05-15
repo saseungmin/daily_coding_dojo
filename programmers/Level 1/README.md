@@ -74,6 +74,9 @@
 - 2019 KAKAO BLIND RECRUITMENT
 - `filter`, `push`, `JSON array`, `sort`, `map`
 
+### 🎈 [약수의 개수와 덧셈](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88)
+- 월간 코딩 챌린지 시즌 2
+
 ### 🎈 [예산](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%98%88%EC%82%B0)
 - Summer/Winter Coding(~2018)
 - `sort`

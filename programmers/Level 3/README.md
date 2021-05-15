@@ -1,5 +1,8 @@
 ## ✔ 프로그래머스 Level 3
 
+### 🎈 [N으로 표현](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84)
+- 동적 계획법(Dynamic Programming)
+
 ### 🎈 [가장 먼 노드](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C)
 - BFS
 - 그래프
