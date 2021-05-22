@@ -22,6 +22,10 @@
 - 캐시 교체 알고리즘 LRU(Least Recently Used) / queue
 - `includes`, `splice`, `indexOf`, `join`, `unshift`, `pop`
 
+### 🎈 [[1차] 프렌즈4블록](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D)
+- 2018 KAKAO BLIND RECRUITMENT
+- 완전 탐색
+
 ### 🎈 [[3차] 방금그곡](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1)
 - 2018 KAKAO BLIND RECRUITMENT
 - 정규표현식(부정형 전방탐색)
