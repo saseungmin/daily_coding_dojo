@@ -3,6 +3,10 @@
 ### 🎈 [124 나라의 숫자](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90)
 - 진법 변환, `parseInt`
 
+### 🎈 [2개 이하로 다른 비트](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8)
+- 월간 코드 챌린지 시즌 2
+- 진법 변환
+
 ### 🎈 [H-index](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/H-index)
 - `H-index`, `sort`
 
