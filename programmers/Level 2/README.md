@@ -110,6 +110,10 @@
 - 2020 카카오 인턴쉽
 - 정규 표현식, `match`, `findIndex`, `eval`, `splice`, `reduce`, `Math.abs`
 
+### 🎈 [순위 검색](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89)
+- 2021 KAKAO BLIND RECRUITMENT
+- 조합, 재귀, 이분검색, 효율성
+
 ### 🎈 [스킬트리](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC)
 - `split`, `filter`, `includes`, `join`, `substring`
 
