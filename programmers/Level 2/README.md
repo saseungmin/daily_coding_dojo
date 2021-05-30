@@ -102,6 +102,9 @@
 ### 🎈 [방문 길이](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4)
 - Summer/Winter Coding(~2018)
 
+### 🎈 [삼각 달팽이](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4)
+- 월간 코드 챌린지 시즌 1
+
 ### 🎈 [소수 만들기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - 완전탐색
 - Summer/Winter Coding(~2018)
