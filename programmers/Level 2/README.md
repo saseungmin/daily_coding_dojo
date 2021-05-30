@@ -114,6 +114,9 @@
 - 2021 KAKAO BLIND RECRUITMENT
 - 조합, 재귀, 이분검색, 효율성
 
+### 🎈 [숫자의 표현](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84)
+- DFS
+
 ### 🎈 [스킬트리](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC)
 - `split`, `filter`, `includes`, `join`, `substring`
 
