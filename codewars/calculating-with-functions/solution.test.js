@@ -88,5 +88,6 @@ describe('solution', () => {
     expect(four(plus(nine()))).toBe(13);
     expect(eight(minus(three()))).toBe(5);
     expect(six(dividedBy(two()))).toBe(3);
+    expect(one(minus(zero()))).toBe(1);
   });
 });
