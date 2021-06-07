@@ -1,12 +1,5 @@
 function moveZeros(arr) {
-  const noneZeroValues = arr.filter((value) => value !== 0);
-  const answer = [...noneZeroValues];
-
-  for (let i = 0; i < arr.length - noneZeroValues.length; i++) {
-    answer.push(0);
-  }
-
-  return answer;
+  return arr.filter((value) => value !== 0).concat(arr.filter((value) => value === 0));
 }
 
 describe('moveZeros', () => {
