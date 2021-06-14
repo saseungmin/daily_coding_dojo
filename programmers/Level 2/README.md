@@ -196,6 +196,10 @@
 - 재귀와 DP를 사용했지만 효율성 실패문제
 - 단순히 O(n)번에 가능한 배열을 사용
 
+### 🎈 [행렬의 곱셈](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88)
+- 행렬의 곱셈
+- 행렬
+
 ### 🎈 [후보키](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%ED%9B%84%EB%B3%B4%ED%82%A4)
 - 2019 KAKAO BLIND RECRUITMENT
 - DFS
