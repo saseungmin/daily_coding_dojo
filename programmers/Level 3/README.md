@@ -20,6 +20,12 @@
 - 해시
 - JSONArray, push, sort, parseInt
 
+### 🎈 [섬 연결하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
+- Greedy
+- 그래프
+- 크루스칼 알고리즘
+- 프림 알고리즘
+
 ### 🎈 [여행경로](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C)
 - DFS
 

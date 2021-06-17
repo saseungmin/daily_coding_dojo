@@ -67,6 +67,49 @@ function solution(n, costs) {
 }
 ```
 
+#### 🎈 프림 알고리즘을 사용한 풀이
+
+```js
+function find(tree, v) {
+  if (tree[v] === v) {
+    return v;
+  }
+
+  return find(tree, tree[v]);
+}
+
+function solution(n, costs) {
+  const q = [];
+  const tree = Array.from({ length: n }, (_, i) => i);
+
+  [...costs].sort((a, b) => a[2] - b[2]).forEach((v) => {
+    q.push({
+      from: v[0],
+      to: v[1],
+      weight: v[2],
+    });
+  });
+
+  let count = 0;
+  let answer = 0;
+
+  while (count < n - 1) {
+    const { from, to, weight } = q.shift();
+
+    if (find(tree, from) !== find(tree, to)) {
+      const [x, y] = [find(tree, from), find(tree, to)];
+
+      count += 1;
+      tree[x] = y;
+      answer += weight;
+    }
+  }
+
+  return answer;
+}
+
+```
+
 --- 
 
 - 📌 문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/42861?language=javascript
