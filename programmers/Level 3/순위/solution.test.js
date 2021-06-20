@@ -69,7 +69,7 @@ function solution(n, results) {
   }, 0);
 }
 
-describe('가장 먼 노드', () => {
+describe('플로이드-워샬 알고리즘으로 풀기', () => {
   it('solution', () => {
     expect(solution(5, [[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]])).toBe(2);
   });
