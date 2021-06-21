@@ -10,6 +10,9 @@
 ### 🎈 [네트워크](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 - BFS
 
+### 🎈 [단속카메라](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC)
+- Greedy
+
 ### 🎈 [단어 변환](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98)
 - DFS
 
