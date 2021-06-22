@@ -26,6 +26,11 @@
 - 해시
 - JSONArray, push, sort, parseInt
 
+### 🎈 [불량 사용자](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90)
+- 2019 카카오 개발자 겨울 인턴쉽
+- 정규표현식
+- DFS
+
 ### 🎈 [섬 연결하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
 - Greedy
 - 그래프
@@ -45,4 +50,3 @@
 ### 🎈 [타일 장식물](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%ED%83%80%EC%9D%BC%20%EC%9E%A5%EC%8B%9D%EB%AC%BC)
 - 동적계획법(Dynamic Programming)
 - 피보나치 수열
-- `push`
