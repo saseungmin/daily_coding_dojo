@@ -10,6 +10,10 @@
 - BFS
 - 그래프
 
+### 🎈 [거스름돈](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)
+- DP
+- 냅색 알고리즘
+
 ### 🎈 [경주로 건설](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EA%B2%BD%EC%A3%BC%EB%A1%9C%20%EA%B1%B4%EC%84%A4)
 - 2020 카카오 인턴쉽
 - BFS
@@ -51,6 +55,9 @@
 
 ### 🎈 [이중우선순위큐](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)
 - 우선순위 큐(힙)
+
+### 🎈 [입국심사](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
+- 이분탐색
 
 ### 🎈 [타일 장식물](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%ED%83%80%EC%9D%BC%20%EC%9E%A5%EC%8B%9D%EB%AC%BC)
 - 동적계획법(Dynamic Programming)
