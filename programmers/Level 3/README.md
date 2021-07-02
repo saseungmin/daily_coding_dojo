@@ -66,6 +66,9 @@
 ### 🎈 [입국심사](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC)
 - 이분탐색
 
+### 🎈 [줄 서는 방법](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95)
+- 팩토리얼을 사용한 문제 해결
+
 ### 🎈 [최고의 집합](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9)
 - 연습문제
 
