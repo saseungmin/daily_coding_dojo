@@ -64,6 +64,9 @@
 ### 🎈 [수박수박수박수박수박수](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98)
 - `repeat`
 
+### 🎈 [숫자 문자열과 영단어](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
+- 2021 카카오 채용연계형 인턴십
+
 ### 🎈 [시저 암호](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
 - `findIndex`, `split`, `join`, `map`, `toUpperCase`, `toLowerCase`
 
