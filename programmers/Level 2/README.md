@@ -55,6 +55,10 @@
 ### 🎈 [가장 큰 정사각형 찾기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0)
 - Dynamic Programming
 
+### 🎈 [거리두기 확인하기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+- 2021 카카오 채용연계형 인턴십
+- 완전탐색
+
 ### 🎈 [게임 맵 최단거리](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%202/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
 - 찾아라 프로그래밍 마에스터
 - `bfs`, `dfs`(효율성 실패)
