@@ -1,5 +1,9 @@
 ## ✔ 프로그래머스 Level 3
 
+### 🎈 [[1차] 추석트래픽](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%5B1%EC%B0%A8%5D%20%EC%B6%94%EC%84%9D%20%ED%8A%B8%EB%9E%98%ED%94%BD)
+- 2018 KAKAO BLIND RECRUITMENT
+- Greedy
+
 ### 🎈 [[1차] 셔틀버스](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%5B1%EC%B0%A8%5D%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4)
 - 2018 KAKAO BLIND RECRUITMENT
 
