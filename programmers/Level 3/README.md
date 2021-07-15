@@ -43,6 +43,10 @@
 - 해시
 - JSONArray, push, sort, parseInt
 
+### 🎈 [보석 쇼핑](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91)
+- 2020 카카오 인턴십
+- 투 포인터 알고리즘
+
 ### 🎈 [불량 사용자](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%203/%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90)
 - 2019 카카오 개발자 겨울 인턴쉽
 - 정규표현식
