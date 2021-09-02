@@ -55,6 +55,10 @@
 ### 🎈 [문자열 다루기 기본](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8)
 - 정규 표현식, `match`
 
+### 🎈 [상호 평가](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%83%81%ED%98%B8%20%ED%8F%89%EA%B0%80)
+- 위클리 챌린지 2주차
+- 행렬 조작
+
 ### 🎈 [서울에서 김서방 찾기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0)
 - `findIndex`
 
