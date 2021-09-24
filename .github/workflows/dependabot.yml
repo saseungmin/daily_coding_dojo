@@ -2,7 +2,7 @@ name: auto-merge
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   auto-merge:
