@@ -20,6 +20,9 @@
 ### 🎈 [가운데 글자 가져오기](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 - `Math.ceil`,`substr`, `substring`
 
+### 🎈 [가장 가까운 같은 글자](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90)
+- 문자열, `push`, 중첩 `for`
+
 ### 🎈 [같은 숫자는 싫어](https://github.com/saseungmin/daily_coding_dojo/tree/master/programmers/Level%201/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)
 - `filter`
   
