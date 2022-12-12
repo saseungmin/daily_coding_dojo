@@ -12,13 +12,16 @@ function solution(s) {
     if (!test.length || test[test.length - 1] === t) {
       test.push(t);
     } else {
-      const tw = test.pop();
+      test.pop();
 
       if (test.length === 0) {
-        console.log(tw);
         answer += 1;
       }
     }
+  }
+
+  if (test.length) {
+    return answer + 1;
   }
 
   return answer;
@@ -27,6 +30,18 @@ function solution(s) {
 describe('문자열 나누기', () => {
   it('solution 1', () => {
     const result = solution('banana');
+
+    expect(result).toBe(3);
+  });
+
+  it('solution 2', () => {
+    const result = solution('abracadabra');
+
+    expect(result).toBe(6);
+  });
+
+  it('solution 3', () => {
+    const result = solution('aaabbaccccabba');
 
     expect(result).toBe(3);
   });
